@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ujian Online - SMP Kr. Basaan</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <div class="quiz-header">
+            <div class="quiz-info">
+                Nama: <span id="displayNama"></span>
+            </div>
+            <div class="quiz-info">
+                Kelas: <span id="displayKelas"></span>
+            </div>
+            <div class="quiz-info">
+                Mapel: <span id="displayMapel"></span>
+            </div>
+        </div>
+        
+        <div class="progress-container">
+            <div class="progress-bar" id="progressBar"></div>
+        </div>
+        
+        <div class="question-container">
+            <div class="question-text" id="questionText"></div>
+            <img id="questionImage" class="question-image" style="display: none;">
+            
+            <div class="options-container" id="optionsContainer"></div>
+        </div>
+        
+        <div class="navigation-buttons">
+            <button class="nav-btn prev-btn" id="prevBtn">Sebelumnya</button>
+            <button class="nav-btn next-btn" id="nextBtn">Berikutnya</button>
+            <button class="nav-btn submit-btn" id="submitBtn" style="display: none;">Selesai</button>
+        </div>
+    </div>
+
+    <script src="quiz.js"></script>
+</body>
+</html>

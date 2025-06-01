@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hasil Ujian - SMP Kr. Basaan</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="result-container">
+        <h1 class="result-title">Hasil Ujian</h1>
+        
+        <div class="result-info">
+            <p>Nama: <strong id="resultNama"></strong></p>
+            <p>Kelas: <strong id="resultKelas"></strong></p>
+            <p>Mata Pelajaran: <strong id="resultMapel"></strong></p>
+            <p>Skor: <strong id="resultScore"></strong></p>
+        </div>
+        
+        <div class="result-stats">
+            <div class="stat-box correct">
+                <div class="stat-value" id="correctCount">0</div>
+                <div class="stat-label">Benar</div>
+            </div>
+            
+            <div class="stat-box wrong">
+                <div class="stat-value" id="wrongCount">0</div>
+                <div class="stat-label">Salah</div>
+            </div>
+            
+            <div class="stat-box unanswered">
+                <div class="stat-value" id="unansweredCount">0</div>
+                <div class="stat-label">Tidak Terjawab</div>
+            </div>
+        </div>
+        
+        <button class="return-btn" id="returnBtn">Kembali ke Login</button>
+        
+        <div id="sendStatus" style="margin-top: 20px; color: var(--success); font-weight: 500;"></div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Ambil data dari sessionStorage
+            const nama = sessionStorage.getItem('nama');
+            const kelas = sessionStorage.getItem('kelas');
+            const mapel = sessionStorage.getItem('mapel');
+            const score = sessionStorage.getItem('score');
+            const correct = sessionStorage.getItem('correct');
+            const wrong = sessionStorage.getItem('wrong');
+            const unanswered = sessionStorage.getItem('unanswered');
+            
+            // Tampilkan data
+            document.getElementById('resultNama').textContent = nama;
+            document.getElementById('resultKelas').textContent = kelas;
+            document.getElementById('resultMapel').textContent = mapel;
+            document.getElementById('resultScore').textContent = `${score}%`;
+            document.getElementById('correctCount').textContent = correct;
+            document.getElementById('wrongCount').textContent = wrong;
+            document.getElementById('unansweredCount').textContent = unanswered;
+            
+            // Tampilkan status pengiriman data
+            document.getElementById('sendStatus').textContent = 'Data hasil ujian telah berhasil dikirim.';
+            
+            // Tombol kembali
+            document.getElementById('returnBtn').addEventListener('click', function() {
+                // Hapus data sessionStorage
+                sessionStorage.removeItem('nama');
+                sessionStorage.removeItem('kelas');
+                sessionStorage.removeItem('mapel');
+                sessionStorage.removeItem('score');
+                sessionStorage.removeItem('correct');
+                sessionStorage.removeItem('wrong');
+                sessionStorage.removeItem('unanswered');
+                
+                window.location.href = 'index.html';
+            });
+        });
+    </script>
+</body>
+</html>

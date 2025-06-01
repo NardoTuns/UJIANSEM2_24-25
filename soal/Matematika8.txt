@@ -1,0 +1,320 @@
+SOAL  
+1. Hasil dari -15 + 8 adalah...  
+A. -23  
+B. -7  
+C. 7  
+D. 23  
+Kunci : B
+
+SOAL  
+2. Hasil dari 3 × (-4) + 2 × 5 adalah...  
+A. -2  
+B. -10  
+C. -12  
+D. 10  
+Kunci : A
+
+SOAL  
+3. Hasil dari (-6)² adalah...  
+A. -36  
+B. -12  
+C. 36  
+D. 12  
+Kunci : C
+
+SOAL  
+4. Akar dari 144 adalah...  
+A. 11  
+B. 12  
+C. 13  
+D. 14  
+Kunci : B
+
+SOAL  
+5. Bentuk sederhana dari √81 adalah...  
+A. 7  
+B. 8  
+C. 9  
+D. 10  
+Kunci : C
+
+SOAL  
+6. Suku ke-5 dari barisan 2, 4, 6, 8, ... adalah...  
+A. 10  
+B. 12  
+C. 14  
+D. 16  
+Kunci : A
+
+SOAL  
+7. Hasil dari 5² - 3² adalah...  
+A. 16  
+B. 25  
+C. 9  
+D. 34  
+Kunci : A
+
+SOAL  
+8. Hasil dari 3/4 + 1/2 adalah...  
+A. 5/8  
+B. 3/8  
+C. 5/4  
+D. 1 1/4  
+Kunci : D
+
+SOAL  
+9. Hasil dari 2/3 ÷ 4/5 adalah...  
+A. 5/6  
+B. 8/15  
+C. 10/12  
+D. 15/8  
+Kunci : D
+
+SOAL  
+10. Perbandingan umur Ali dan Budi adalah 3:5. Jika jumlah umur mereka 40 tahun, maka umur Budi adalah...  
+A. 15 tahun  
+B. 20 tahun  
+C. 25 tahun  
+D. 30 tahun  
+Kunci : C
+
+SOAL  
+11. Bentuk aljabar dari "jumlah dari x dan 7 dikalikan 2" adalah...  
+A. 2x + 7  
+B. 2(x + 7)  
+C. x + 14  
+D. 2x + 14  
+Kunci : B
+
+SOAL  
+12. Sederhanakan: 5x - 2x + 3 - 4  
+A. 3x - 1  
+B. 7x - 1  
+C. 3x - 7  
+D. 2x - 1  
+Kunci : A
+
+SOAL  
+13. Nilai x yang memenuhi 2x + 5 = 11 adalah...  
+A. 2  
+B. 3  
+C. 4  
+D. 6  
+Kunci : C
+
+SOAL  
+14. Himpunan penyelesaian dari 3x - 4 = 2x + 1 adalah...  
+A. {0}  
+B. {2}  
+C. {5}  
+D. {6}  
+Kunci : C
+
+SOAL  
+15. Faktor dari x² - 9 adalah...  
+A. (x - 3)(x + 3)  
+B. (x + 3)²  
+C. (x - 3)²  
+D. x(x - 9)  
+Kunci : A
+
+SOAL  
+16. Luas segitiga dengan alas 10 cm dan tinggi 6 cm adalah...  
+A. 30 cm²  
+B. 60 cm²  
+C. 40 cm²  
+D. 50 cm²  
+Kunci : A
+
+SOAL  
+17. Sebuah persegi panjang memiliki panjang 12 cm dan lebar 5 cm. Kelilingnya adalah...  
+A. 34 cm  
+B. 30 cm  
+C. 24 cm  
+D. 40 cm  
+Kunci : A
+
+SOAL  
+18. Volume kubus dengan panjang sisi 7 cm adalah...  
+A. 49 cm³  
+B. 343 cm³  
+C. 21 cm³  
+D. 147 cm³  
+Kunci : B
+
+SOAL  
+19. Luas permukaan balok dengan panjang 8 cm, lebar 5 cm, dan tinggi 4 cm adalah...  
+A. 208 cm²  
+B. 200 cm²  
+C. 180 cm²  
+D. 150 cm²  
+Kunci : A
+
+SOAL  
+20. Jika diameter sebuah lingkaran adalah 14 cm, maka kelilingnya adalah... (π = 22/7)  
+A. 44 cm  
+B. 88 cm  
+C. 154 cm  
+D. 66 cm  
+Kunci : A
+
+SOAL  
+21. Jika jari-jari lingkaran 7 cm, maka luas lingkaran adalah... (π = 22/7)  
+A. 154 cm²  
+B. 308 cm²  
+C. 77 cm²  
+D. 121 cm²  
+Kunci : A
+
+SOAL  
+22. Nilai dari 2³ × 5² adalah...  
+A. 80  
+B. 100  
+C. 200  
+D. 40  
+Kunci : A
+
+SOAL  
+23. Bentuk perpangkatan dari 3 × 3 × 3 × 3 adalah...  
+A. 3²  
+B. 3³  
+C. 3⁴  
+D. 3⁵  
+Kunci : C
+
+SOAL  
+24. Bentuk baku dari 4.500.000 adalah...  
+A. 4,5 × 10⁶  
+B. 45 × 10⁵  
+C. 450 × 10⁴  
+D. 0,45 × 10⁷  
+Kunci : A
+
+SOAL  
+25. Faktor prima dari 84 adalah...  
+A. 2 × 2 × 3 × 7  
+B. 2 × 3 × 7  
+C. 2 × 2 × 3  
+D. 3 × 7 × 7  
+Kunci : A
+
+SOAL  
+26. KPK dari 12 dan 18 adalah...  
+A. 36  
+B. 72  
+C. 24  
+D. 6  
+Kunci : A
+
+SOAL  
+27. FPB dari 48 dan 60 adalah...  
+A. 6  
+B. 12  
+C. 24  
+D. 48  
+Kunci : B
+
+SOAL  
+28. Bentuk paling sederhana dari 20/60 adalah...  
+A. 1/2  
+B. 1/3  
+C. 1/4  
+D. 1/5  
+Kunci : B
+
+SOAL  
+29. Persamaan garis yang melalui titik (0, 5) dan bergradien 3 adalah...  
+A. y = 3x + 5  
+B. y = 3x - 5  
+C. y = -3x + 5  
+D. y = 5x + 3  
+Kunci : A
+
+SOAL  
+30. Gradien garis yang melalui titik (2, 3) dan (4, 7) adalah...  
+A. 1  
+B. 2  
+C. 3  
+D. 4  
+Kunci : B
+
+SOAL  
+31. Grafik y = 2x + 1 memotong sumbu-Y di titik...  
+A. (0, 1)  
+B. (1, 0)  
+C. (0, 2)  
+D. (2, 0)  
+Kunci : A
+
+SOAL  
+32. Sebuah tabung memiliki jari-jari 7 cm dan tinggi 10 cm. Volumenya adalah... (π = 22/7)  
+A. 1540 cm³  
+B. 700 cm³  
+C. 440 cm³  
+D. 220 cm³  
+Kunci : A
+
+SOAL  
+33. Jika 5x = 20, maka nilai x adalah...  
+A. 2  
+B. 3  
+C. 4  
+D. 5  
+Kunci : D
+
+SOAL  
+34. Bentuk pangkat negatif dari 1/5 adalah...  
+A. 5  
+B. 5⁻¹  
+C. 1/5⁻¹  
+D. 1/5¹  
+Kunci : B
+
+SOAL  
+35. Nilai dari 10⁻² adalah...  
+A. 100  
+B. 10  
+C. 1/100  
+D. 1/10  
+Kunci : C
+
+SOAL  
+36. Diketahui 3a + 4 = 16. Nilai a adalah...  
+A. 3  
+B. 4  
+C. 5  
+D. 6  
+Kunci : C
+
+SOAL  
+37. Jika luas permukaan kubus adalah 216 cm², maka panjang sisinya adalah...  
+A. 6 cm  
+B. 8 cm  
+C. 9 cm  
+D. 12 cm  
+Kunci : A
+
+SOAL  
+38. Hasil dari 0,25 × 0,4 adalah...  
+A. 0,01  
+B. 0,1  
+C. 0,2  
+D. 0,4  
+Kunci : B
+
+SOAL  
+39. Jarak sebenarnya antara dua kota adalah 240 km. Jika digambar pada peta dengan skala 1:6.000.000, maka jaraknya di peta adalah...  
+A. 4 cm  
+B. 3 cm  
+C. 5 cm  
+D. 6 cm  
+Kunci : B
+
+SOAL  
+40. Bentuk desimal dari 7/8 adalah...  
+A. 0,875  
+B. 0,78  
+C. 0,88  
+D. 0,87  
+Kunci : A
+

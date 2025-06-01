@@ -1,0 +1,319 @@
+SOAL  
+1. Komputer generasi pertama menggunakan...  
+A. Transistor  
+B. IC  
+C. Tabung vakum  
+D. Mikroprosesor  
+Kunci : C
+
+SOAL  
+2. Komputer ENIAC termasuk dalam generasi...  
+A. Kedua  
+B. Ketiga  
+C. Pertama  
+D. Keempat  
+Kunci : C
+
+SOAL  
+3. Alat hitung mekanik pertama di dunia adalah...  
+A. Kalkulator  
+B. Sempoa  
+C. Pascaline  
+D. Komputer  
+Kunci : B
+
+SOAL  
+4. Penemu mesin hitung Pascaline adalah...  
+A. Charles Babbage  
+B. Blaise Pascal  
+C. John von Neumann  
+D. Bill Gates  
+Kunci : B
+
+SOAL  
+5. Komputer generasi kedua menggunakan...  
+A. IC  
+B. Transistor  
+C. Tabung hampa  
+D. Chip  
+Kunci : B
+
+SOAL  
+6. Komputer generasi ketiga sudah menggunakan...  
+A. Mikrokontroler  
+B. Transistor  
+C. Integrated Circuit (IC)  
+D. Tabung vakum  
+Kunci : C
+
+SOAL  
+7. Bapak komputer dunia adalah...  
+A. Steve Jobs  
+B. Bill Gates  
+C. Charles Babbage  
+D. Alan Turing  
+Kunci : C
+
+SOAL  
+8. Salah satu contoh output device adalah...  
+A. Keyboard  
+B. Mouse  
+C. Monitor  
+D. Scanner  
+Kunci : C
+
+SOAL  
+9. Alat untuk memasukkan data ke komputer disebut...  
+A. Output device  
+B. Storage device  
+C. Input device  
+D. Processor  
+Kunci : C
+
+SOAL  
+10. Perangkat keras komputer disebut juga dengan istilah...  
+A. Software  
+B. Hardware  
+C. Brainware  
+D. Operating system  
+Kunci : B
+
+SOAL  
+11. Fungsi utama CPU adalah untuk...  
+A. Menyimpan data  
+B. Menghitung data  
+C. Memproses data  
+D. Mencetak data  
+Kunci : C
+
+SOAL  
+12. Komponen komputer yang disebut otak komputer adalah...  
+A. RAM  
+B. CPU  
+C. Harddisk  
+D. Monitor  
+Kunci : B
+
+SOAL  
+13. Microsoft Word digunakan untuk...  
+A. Membuat slide presentasi  
+B. Mengolah angka  
+C. Mengedit video  
+D. Mengolah kata  
+Kunci : D
+
+SOAL  
+14. Microsoft Excel digunakan untuk...  
+A. Mengetik surat  
+B. Membuat grafik dan tabel  
+C. Membuat animasi  
+D. Mengelola email  
+Kunci : B
+
+SOAL  
+15. Microsoft PowerPoint digunakan untuk...  
+A. Mengetik skripsi  
+B. Mengatur dokumen  
+C. Membuat presentasi  
+D. Membuat grafik  
+Kunci : C
+
+SOAL  
+16. Format penyimpanan file Microsoft Word adalah...  
+A. .xls  
+B. .docx  
+C. .ppt  
+D. .txt  
+Kunci : B
+
+SOAL  
+17. Sistem operasi komputer yang paling umum digunakan adalah...  
+A. Android  
+B. Windows  
+C. iOS  
+D. Linux  
+Kunci : B
+
+SOAL  
+18. Brainware dalam komputer adalah...  
+A. Perangkat lunak  
+B. Perangkat keras  
+C. Pengguna komputer  
+D. Virus komputer  
+Kunci : C
+
+SOAL  
+19. Perangkat lunak pengolah gambar adalah...  
+A. Microsoft Word  
+B. Adobe Photoshop  
+C. Excel  
+D. Access  
+Kunci : B
+
+SOAL  
+20. Shortcut untuk menyimpan dokumen di komputer adalah...  
+A. Ctrl + X  
+B. Ctrl + C  
+C. Ctrl + S  
+D. Ctrl + V  
+Kunci : C
+
+SOAL  
+21. Alat untuk mencetak hasil kerja di komputer adalah...  
+A. Scanner  
+B. Monitor  
+C. Printer  
+D. Webcam  
+Kunci : C
+
+SOAL  
+22. Contoh sistem operasi open source adalah...  
+A. Windows  
+B. MacOS  
+C. Linux  
+D. Android  
+Kunci : C
+
+SOAL  
+23. Bagian komputer yang menyimpan data secara permanen adalah...  
+A. RAM  
+B. CPU  
+C. Harddisk  
+D. Monitor  
+Kunci : C
+
+SOAL  
+24. Aplikasi untuk membuat surat undangan adalah...  
+A. Excel  
+B. PowerPoint  
+C. Word  
+D. Paint  
+Kunci : C
+
+SOAL  
+25. Menu utama dalam Microsoft Word disebut...  
+A. Ribbon  
+B. Slide  
+C. Toolbar  
+D. Panel  
+Kunci : A
+
+SOAL  
+26. Shortcut untuk mencetak dokumen adalah...  
+A. Ctrl + P  
+B. Ctrl + Z  
+C. Ctrl + V  
+D. Ctrl + X  
+Kunci : A
+
+SOAL  
+27. Software yang digunakan untuk membuka internet disebut...  
+A. Browser  
+B. Office  
+C. Antivirus  
+D. Scanner  
+Kunci : A
+
+SOAL  
+28. Fungsi tombol Ctrl + Z adalah...  
+A. Menyimpan  
+B. Membuka file  
+C. Mengulangi  
+D. Membatalkan  
+Kunci : D
+
+SOAL  
+29. Perangkat lunak yang digunakan untuk membuat grafik dan diagram adalah...  
+A. Excel  
+B. Word  
+C. Paint  
+D. Access  
+Kunci : A
+
+SOAL  
+30. Komputer yang hanya dapat memproses satu hal dalam satu waktu disebut...  
+A. Komputer multitasking  
+B. Komputer hybrid  
+C. Komputer analog  
+D. Komputer generasi pertama  
+Kunci : D
+
+SOAL  
+31. Tempat meletakkan ikon aplikasi di layar desktop disebut...  
+A. Toolbar  
+B. Taskbar  
+C. File  
+D. Folder  
+Kunci : B
+
+SOAL  
+32. Microsoft Excel menggunakan lembar kerja yang disebut...  
+A. Sheet  
+B. Slide  
+C. File  
+D. Halaman  
+Kunci : A
+
+SOAL  
+33. Suatu program untuk melindungi komputer dari virus disebut...  
+A. Media player  
+B. Browser  
+C. Antivirus  
+D. Email  
+Kunci : C
+
+SOAL  
+34. Perangkat keras utama komputer yang menampilkan tampilan disebut...  
+A. Keyboard  
+B. Printer  
+C. Monitor  
+D. CPU  
+Kunci : C
+
+SOAL  
+35. RAM berfungsi untuk...  
+A. Menyimpan data jangka panjang  
+B. Menyimpan data sementara  
+C. Menampilkan gambar  
+D. Mencetak dokumen  
+Kunci : B
+
+SOAL  
+36. Salah satu contoh perangkat penyimpanan eksternal adalah...  
+A. RAM  
+B. Flashdisk  
+C. CD Room  
+D. Monitor  
+Kunci : B
+
+SOAL  
+37. Shortcut untuk menyalin teks di komputer adalah...  
+A. Ctrl + X  
+B. Ctrl + V  
+C. Ctrl + C  
+D. Ctrl + P  
+Kunci : C
+
+SOAL  
+38. File hasil Microsoft PowerPoint disimpan dalam format...  
+A. .pptx  
+B. .docx  
+C. .xlsx  
+D. .pdf  
+Kunci : A
+
+SOAL  
+39. Fasilitas untuk membuat dokumen baru di Microsoft Word adalah...  
+A. New  
+B. Save  
+C. Print  
+D. Exit  
+Kunci : A
+
+SOAL  
+40. Salah satu contoh aplikasi berbasis cloud adalah...  
+A. Notepad  
+B. Microsoft Paint  
+C. Google Docs  
+D. Winamp  
+Kunci : C
