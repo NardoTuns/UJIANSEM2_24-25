@@ -185,7 +185,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Fungsi untuk kirim data ke Google Sheets
     function sendDataToGoogleSheets(nama, kelas, mapel, skor) {
     const timestamp = new Date().toISOString();
-    const url = 'https://script.google.com/macros/s/AKfycbyu55oXoexzhb9cY2F8ybd-BRq4-MGYlIFmrncRpIP1azUEwe688_38R-xfOu-7_C3h6Q/exec';
+    const url = 'https://script.google.com/macros/s/AKfycbyBFRAH7IonEJBFSEy7xSW7QIsR2pzQEAQxBFbay33-hmpY0HpsALezj9VH4ryBOIHuGw/exec';
 
     const data = {
         nama: nama,
