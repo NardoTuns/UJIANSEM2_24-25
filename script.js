@@ -2,12 +2,12 @@ document.addEventListener('DOMContentLoaded', function() {
     const loginForm = document.getElementById('loginForm');
     // Daftar password per mata pelajaran
 const passwordMapel = {
-    "PAK": "212",
-    "PKN": "pkn456",
+    "PAK": "321",
+    "PKN": "321",
     "Bah. Indonesia": "indo789",
     "Bah. Inggris": "inggris321",
-    "Matematika": "213",
-    "IPA": "ipa987",
+    "Matematika": "321",
+    "IPA": "321",
     "IPS": "ips741",
     "PJOK": "pjok852",
     "Prakarya": "prakarya963",
